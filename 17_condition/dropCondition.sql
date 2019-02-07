@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS ConditionEvidence;
+DROP TABLE IF EXISTS ConditionEvidence_HTDetail;
+DROP TABLE IF EXISTS ConditionEvidence_HTCode;
+DROP TABLE IF EXISTS ConditionEvidence_HT;
+DROP TABLE IF EXISTS ConditionStage;
+DROP TABLE IF EXISTS ConditionStage_HTAssessment;
+DROP TABLE IF EXISTS ConditionStage_HT;
+DROP TABLE IF EXISTS ConditionNote;
+DROP TABLE IF EXISTS ConditionBodySite;
+DROP TABLE IF EXISTS ConditionCategory;
+DROP TABLE IF EXISTS Condition;

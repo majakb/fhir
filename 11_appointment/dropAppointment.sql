@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS AppointmentParticipant;
+DROP TABLE IF EXISTS AppointmentParticipant_HTType;
+DROP TABLE IF EXISTS AppointmentParticipant_HT;
+DROP TABLE IF EXISTS AppointmentRequestedPeriod;
+DROP TABLE IF EXISTS AppointmentBasedOn;
+DROP TABLE IF EXISTS AppointmentSlot;
+DROP TABLE IF EXISTS AppointmentSupportingInformation;
+DROP TABLE IF EXISTS AppointmentReasonReference;
+DROP TABLE IF EXISTS AppointmentReasonCode;
+DROP TABLE IF EXISTS AppointmentSpeciality;
+DROP TABLE IF EXISTS AppointmentServiceType;
+DROP TABLE IF EXISTS AppointmentServiceCategory;
+DROP TABLE IF EXISTS Appointment;

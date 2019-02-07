@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS RelatedPersonCommunication
+DROP TABLE IF EXISTS RelatedPersonCommunication_HT
+DROP TABLE IF EXISTS RelatedPersonPhoto
+DROP TABLE IF EXISTS RelatedPersonAddress
+DROP TABLE IF EXISTS RelatedPersonTelecom
+DROP TABLE IF EXISTS RelatedPersonName
+DROP TABLE IF EXISTS RelatedPersonRelationship
+DROP TABLE IF EXISTS RelatedPersonIdentifier
+DROP TABLE IF EXISTS RelatedPerson

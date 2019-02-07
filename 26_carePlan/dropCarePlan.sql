@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS CarePlanActivity;
+DROP TABLE IF EXISTS CarePlanActivity_HTProgress;
+DROP TABLE IF EXISTS CarePlanActivity_HTOutcomeReference;
+DROP TABLE IF EXISTS CarePlanActivity_HTOutcomeCodeableConcept;
+DROP TABLE IF EXISTS CarePlanActivity_HT;
+DROP TABLE IF EXISTS CarePlanDetail_HTPerformer;
+DROP TABLE IF EXISTS CarePlanDetail_HTGoal;
+DROP TABLE IF EXISTS CarePlanDetail_HTReasonReference;
+DROP TABLE IF EXISTS CarePlanDetail_HTReasonCode;
+DROP TABLE IF EXISTS CarePlanDetail_HTInstantiatesUri;
+DROP TABLE IF EXISTS CarePlanDetail_HTInstantiatesCanonical;
+DROP TABLE IF EXISTS CarePlanDetail_HT;
+
+DROP TABLE IF EXISTS CarePlanNote;
+DROP TABLE IF EXISTS CarePlanGoal;
+DROP TABLE IF EXISTS CarePlanSupportingInfo;
+DROP TABLE IF EXISTS CarePlanAddresses;
+DROP TABLE IF EXISTS CarePlanCareTeam;
+DROP TABLE IF EXISTS CarePlanContributor;
+DROP TABLE IF EXISTS CarePlanCategory;
+DROP TABLE IF EXISTS CarePlanPartOf;
+DROP TABLE IF EXISTS CarePlanReplaces;
+DROP TABLE IF EXISTS CarePlanBasedOn;
+DROP TABLE IF EXISTS CarePlanInstatiatesUri;
+DROP TABLE IF EXISTS CarePlanInstantiatesCanonical;
+DROP TABLE IF EXISTS CarePlan;
